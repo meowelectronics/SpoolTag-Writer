@@ -1,0 +1,41 @@
+SpoolTag Writer
+Copyright 2026 meowelectronics contributors
+
+Licensed under the Apache License, Version 2.0. See LICENSE.
+
+Third-party runtime components
+------------------------------
+AndroidX and Jetpack Compose
+Copyright The Android Open Source Project
+https://android.googlesource.com/platform/frameworks/support/
+Apache License, Version 2.0
+
+Kotlin standard library, kotlinx.coroutines, kotlinx.serialization,
+and JetBrains annotations
+Copyright JetBrains s.r.o. and contributors
+https://github.com/JetBrains/kotlin
+https://github.com/Kotlin/kotlinx.coroutines
+https://github.com/Kotlin/kotlinx.serialization
+https://github.com/JetBrains/java-annotations
+Apache License, Version 2.0
+
+Guava ListenableFuture
+Copyright The Guava Authors
+https://github.com/google/guava
+Apache License, Version 2.0
+
+JSpecify annotations
+Copyright The JSpecify Authors
+https://github.com/jspecify/jspecify
+Apache License, Version 2.0
+
+The Apache License text is included with this notice in the APK at
+assets/licenses/LICENSE. Third-party components retain their own copyrights.
+
+Gradle Wrapper (build tooling, not shipped as application runtime code)
+Copyright Gradle, Inc. and contributors
+https://github.com/gradle/gradle
+Apache License, Version 2.0
+
+Manufacturer and product names belong to their respective owners.
+This project is not affiliated with or endorsed by those manufacturers.
